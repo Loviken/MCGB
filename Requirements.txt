@@ -1,5 +1,5 @@
 matplotlib==2.2.3
-numpy==1.15.1
+numpy==1.22.0
 pygame==1.9.4
 qi==1.6.1
 scikit-learn==0.19.2
